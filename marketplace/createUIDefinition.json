@@ -61,6 +61,10 @@
 								{
 									"label": "2.5.1",
 									"value": "2.5.1"
+								},
+								{
+									"label": "2.6.0",
+									"value": "2.6.0"
 								}
 							],
 							"required": true
